@@ -1,9 +1,9 @@
 # Recruitment_Text_Mining
-채용공고 텍스트 마이닝과 생성형AI를 통한 취업 인사이트 도출 및 제공 
+채용공고 텍스트 마이닝과 생성형 AI를 통한 취업 인사이트 도출 및 제공 
 
 ## ✍ 요약
 - SBERT와 비지도학습을 기반으로 채용공고의 문장단위 분석 진행
-- KeyBERT, BERTopic로 추출한 군집별 키워드를 활용해 인사이트를 도출
+- KeyBERT, BERTopic로 추출한 군집별 키워드를 활용해 인사이트 도출
 - Text Network를 통해 취업에 필요한 Teck Stack 제안
 - 생성형 AI를 활용한 Few-Shot Prompting을 통해 사용자의 필요한 역량 제안
 - Django Framework를 활용한 WebPage 배포 | [Django Code](https://github.com/GGoodong/Stats_Django) | 시연영상 <a href="https://www.youtube.com/watch?v=mXCxreP3_cQ"> <img src="https://img.shields.io/badge/-video-8AC926?style=for-the-badge" height="20px" style="margin-bottom: -5px" /> </a> 
